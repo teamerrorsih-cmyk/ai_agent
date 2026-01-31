@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-langgraph
-pydantic
-groq
-python-dotenv
-pandas
-openpyxl
